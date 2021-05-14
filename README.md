@@ -7,3 +7,9 @@ This project is done by:
  Front-end: Html,Css,Javascript
 
  Back-end: Node js, MongoDB as database.
+ 
+ TO RUN THIS PROGRAM
+  [sudo] npm i nodemon -g
+  npm i
+  upload .env
+  npm start
