@@ -13,3 +13,6 @@ This project is done by:
   npm i
   upload .env
   npm start
+  
+  on local host 
+  http://127.0.0.1:8000
